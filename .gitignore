@@ -12,3 +12,10 @@ npm-debug.log
 
 # Firebase
 firebase-debug.log
+.idea
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+ScadaReact.iml
+yarn.lock
